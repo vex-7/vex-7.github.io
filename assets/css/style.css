@@ -18,9 +18,9 @@ a:visited {
   text-decoration: none;
 }
 .top-nav {
-  margin-bottom: 40px;
+  margin-bottom: 10px;
   background-color: rgba(255, 255, 255, 0.1);
-  padding: 20px 0;
+  padding: 10px 0;
 }
 .top-nav a {
   color: #fff;
@@ -92,7 +92,7 @@ ul.user-links li {
   background: #503759;
 }
 .single-title, .page-title {
-  font-size: calc(1.3rem + .6vw);
+  font-size: calc(1.0rem + .6vw);
   color: #fff;
 }
 .item-title {
@@ -375,7 +375,7 @@ ul.category-list-game .cat-item:hover {
   position: relative;
   overflow: hidden;
   width: 100%;
-  min-height: 700px;
+  min-height: 580px;
 }
 .game-iframe {
   position: absolute;
